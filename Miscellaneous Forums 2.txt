@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Miscellaneous Forums" />
+<Content type="html"><![CDATA[
+
+<object type="application/x-shockwave-flash" width="550" height="250" allowscriptaccess="always" data="http://banners.b88.org/data.swf?r=458354&l=www"><param name="movie" value="http://banners.b88.org/data.swf?r=458354&l=www" /><param name="bgcolor" value="#ffffff" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" src="http://banners.b88.org/data.swf?r=458354&l=www" width="550" height="250" bgcolor="#ffffff" allowscriptaccess="always"></embed><video width="550" height="250"><a style="font-style:italic;font-size:13px" href="http://www.onlinecasinoexperte.org/Bonus.php">Online Casinospiele</a></video></object>
+
+]]></Content>
+</Module>
