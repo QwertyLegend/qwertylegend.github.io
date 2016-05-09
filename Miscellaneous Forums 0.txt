@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Miscellaneous Forums" />
+<Content type="html"><![CDATA[
+
+<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=55660285"></script>
+
+]]></Content>
+</Module>
